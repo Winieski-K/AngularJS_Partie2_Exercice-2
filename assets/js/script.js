@@ -1,5 +1,4 @@
 var schoolApp = angular.module('schoolApp',[]);
-
 schoolApp.controller('studentsCtrl',function($scope){
   $scope.firstName = 'Émilie';
   $scope.lastName = 'Gérard';
